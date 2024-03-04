@@ -1,0 +1,32 @@
+Aplicativo Web de Registros de Tarefas
+Visão geral
+O aplicativo Web Task Records é um sistema de gerenciamento de tarefas leve e fácil de usar. Este aplicativo permite aos usuários organizar suas tarefas com eficiência, definir prioridades e filtrar tarefas com base em níveis de prioridade. Ele fornece uma interface intuitiva para adicionar, editar e categorizar tarefas de forma dinâmica.
+
+Características
+Gerenciamento de tarefas:
+
+Os usuários podem adicionar novas tarefas inserindo nomes de tarefas e selecionando prioridades (Alta, Média, Baixa).
+As tarefas são exibidas em um formato de lista limpo e organizado.
+Filtragem Dinâmica:
+
+O aplicativo oferece opções de filtragem dinâmica, permitindo aos usuários exibir tarefas com base em seus níveis de prioridade.
+As categorias de filtro incluem TODOS, BAIXO, MÉDIO e ALTO.
+Interação com o usuário:
+
+As tarefas podem ser marcadas como concluídas simplesmente clicando nelas.
+Os usuários podem editar tarefas usando uma janela pop-up para modificações mais detalhadas.
+Tecnologias Utilizadas
+O aplicativo Web Task Records é construído usando as seguintes tecnologias:
+
+HTML: A estrutura da página web é definida usando HTML para marcação semântica e organização de conteúdo.
+
+CSS: os estilos são aplicados usando CSS para criar uma interface de usuário esteticamente agradável e responsiva. A folha de estilo externa ( style.css) está vinculada para melhorar a capacidade de manutenção.
+
+JavaScript: funcionalidades dinâmicas como adição de tarefas, filtragem e interações do usuário são implementadas usando JavaScript. O arquivo de script externo ( script.js) é referenciado para manter o código modular.
+
+Uso
+Abra o arquivo HTML ( index.html) em um navegador da web.
+Adicione tarefas inserindo nomes de tarefas e selecionando prioridades.
+Clique no botão “Adicionar” para inserir tarefas na lista.
+Utilize as opções de filtragem para exibir tarefas com base em níveis de prioridade.
+Marque as tarefas como concluídas clicando nelas.
